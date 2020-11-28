@@ -89,7 +89,7 @@ body {
   background-color: rgb(48, 42, 42); }
 
 .reveal {
-  font-family: "Roboto", serif; /* or "Roboto Slab"*/
+  font-family: "Roboto Slab", serif; /* or "Roboto Slab"*/
   font-size: 32px;
   font-weight: normal;
   color: #fcfcfc; }
@@ -126,7 +126,9 @@ body {
   letter-spacing: normal;
   text-transform: uppercase;
   text-shadow: none;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+ 
+}
 
 .reveal h1 {
   font-size: 2.6em; }
